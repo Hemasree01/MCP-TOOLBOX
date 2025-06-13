@@ -2,12 +2,12 @@
 
 ## Overview
 
-Make sure to run the tool box and hotel_agent.py in two different terminals  in order to see the communication between the toolbox and agent.
+Make sure to run the tool box and hotel_agent.py in two different terminals in order to see the communication between the toolbox and agent.
 
 ## Step 1: Set up your database
 
 In this section, we will create a database, insert some data that needs to be
-access by our agent, and create a database user for Toolbox to connect with. befor this step need to install postgres on the laptop with python version 3.9+.
+access by our agent, and create a database user for Toolbox to connect with. befor this step need to install postgres (links to install are the pdf) on the laptop with python version 3.9+.
 
 1. Connect to postgres using the `psql` command:
 
