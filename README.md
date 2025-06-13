@@ -2,6 +2,8 @@
 
 ## Overview
 
+Make sure to run the tool box and hotel_agent.py in two different terminals  in order to see the communication between the toolbox and agent.
+
 ## Step 1: Set up your database
 
 In this section, we will create a database, insert some data that needs to be
